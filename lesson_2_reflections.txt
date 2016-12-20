@@ -1,2 +1,5 @@
 Q. What happens when you initialize a repository? Why do you need to do it?
 A. The folder .git was created and now I am ready to commit there my files and support the proper repository
+
+Q. How is the staging area different from the working directory and the repository? What value do you think it offers?
+A. We can add files to the staging area one by one to take a track of current "one logical change per file - one staging". Then go to the next file, which is required to be updated for that global "one logical change"
