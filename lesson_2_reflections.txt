@@ -6,3 +6,6 @@ A. We can add files to the staging area one by one to take a track of current "o
 
 Q. How can you use the staging area to make sure you have one commit per logical change?
 A. I can add several pages to the staging area before to do one commit for all the single logical commit.
+
+Q. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+A. I can save in branches some ideas which cannot be implemented in their time but may be realized later.
