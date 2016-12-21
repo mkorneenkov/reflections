@@ -9,3 +9,6 @@ A. I can add several pages to the staging area before to do one commit for all t
 
 Q. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 A. I can save in branches some ideas which cannot be implemented in their time but may be realized later.
+
+Q. How do the diagrams help you visualize the branch structure?
+A. You can see the tree of branches and figure out the path of thoughts and where you can add new ideas
