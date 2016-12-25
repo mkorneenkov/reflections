@@ -12,3 +12,6 @@ A. I can save in branches some ideas which cannot be implemented in their time b
 
 Q. How do the diagrams help you visualize the branch structure?
 A. You can see the tree of branches and figure out the path of thoughts and where you can add new ideas
+
+Q. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A. The result is the new file with updates from both previous versions based on some reasonable logic.
