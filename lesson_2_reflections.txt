@@ -15,3 +15,6 @@ A. You can see the tree of branches and figure out the path of thoughts and wher
 
 Q. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 A. The result is the new file with updates from both previous versions based on some reasonable logic.
+
+Q. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+A. Automatic merging PRO: no need for the manual work if changes are straight-forward. Cons: Sometimes what is obvious for a man maybe not obvious for the computer brain.
