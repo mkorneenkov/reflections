@@ -3,3 +3,6 @@ A. Is, let's say, I was asked to update the file, laying on the beach....
 
 Q. Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 A. I want to be the master of my commits. To make the copies reasonable and to minimize the mess.
+
+Q. Describe the differences between forks, clones, and branches. When would you use one instead of another?
+A. Forks - you make a remote copy of remote one's repository, so you show who's the original author. Clones - you make a local copy of remote/local repository to make updates. Branch - you make a crossroad to try new things before apply them to the master
